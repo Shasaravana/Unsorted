@@ -1,0 +1,27 @@
+Dataset - Explain it in detail 
+	1. For each column: mean, median, mode
+	2. Above Average, Below Average
+
+Univariate Analysis: How it affects the output column
+
+Bivariate Analysis: How the combination of two variables affects the output column
+
+Input Split: Save it as CSV file Train data and Test data
+
+Models: Base Model Selection 
+
+Select two or three models
+
+On selected base models: do hyperparameter fine tuning
+
+1. Use your intuition and write reasons for it
+
+2. Use grid search
+
+Tabluate the predictions and create charts
+
+
+
+
+
+
